@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "title": "Pradhan Mantri Awas Yojana (PMAY)",
+      "paragraphs": [
+        {
+          "context": "Pradhan Mantri Awas Yojana (PMAY) is an initiative by the Government of India in which affordable housing will be provided to the urban poor with a target of building 2 crore (20 million) affordable houses by 31 March 2022. It has two components: Pradhan Mantri Awas Yojana (Urban) (PMAY-U) for the urban poor and Pradhan Mantri Awas Yojana (Gramin) (PMAY-G) for the rural poor. The scheme provides interest subsidies on home loans for purchase/construction/extension of houses. Beneficiaries include Economically Weaker Sections (EWS), Low Income Groups (LIG), and Middle Income Groups (MIG).",
+          "qas": [
+            {
+              "question": "What is PMAY?",
+              "id": "pmay_1",
+              "answers": [{ "text": "initiative providing affordable housing to the urban and rural poor", "answer_start": 45 }]
+            },
+            {
+              "question": "What are the two components of PMAY?",
+              "id": "pmay_2",
+              "answers": [{ "text": "PMAY-U (Urban) and PMAY-G (Gramin)", "answer_start": 165 }]
+            },
+            {
+              "question": "Who are the beneficiaries of PMAY?",
+              "id": "pmay_3",
+              "answers": [{ "text": "EWS, LIG, and MIG groups", "answer_start": 360 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ayushman Bharat (PM-JAY)",
+      "paragraphs": [
+        {
+          "context": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) is the largest health insurance scheme in the world, fully financed by the government. It provides a cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization across public and private empaneled hospitals in India. Over 10.74 crore poor and vulnerable entitled families (approximately 50 crore beneficiaries) are eligible for these benefits. It provides cashless and paperless access to services for the beneficiary at the point of service.",
+          "qas": [
+            {
+              "question": "What is PM-JAY?",
+              "id": "pmjay_1",
+              "answers": [{ "text": "largest health insurance scheme in the world providing Rs. 5 lakh cover", "answer_start": 70 }]
+            },
+            {
+              "question": "How much insurance cover does Ayushman Bharat provide?",
+              "id": "pmjay_2",
+              "answers": [{ "text": "Rs. 5 lakhs per family per year", "answer_start": 110 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PM-KISAN",
+      "paragraphs": [
+        {
+          "context": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector scheme with 100% funding from Government of India. It provides income support to all landholding farmer families in the country. Under the scheme, an amount of Rs. 6000/- per year is released in three 4-monthly installments of Rs. 2000/- each directly into the bank accounts of the beneficiaries. The definition of family for the scheme is husband, wife and minor children.",
+          "qas": [
+            {
+              "question": "What is PM-KISAN?",
+              "id": "pmk_1",
+              "answers": [{ "text": "central sector scheme providing income support of Rs. 6000 to farmers", "answer_start": 85 }]
+            },
+            {
+              "question": "How much money is given under PM-KISAN?",
+              "id": "pmk_2",
+              "answers": [{ "text": "Rs. 6000 per year in three installments", "answer_start": 180 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Atal Pension Yojana (APY)",
+      "paragraphs": [
+        {
+          "context": "Atal Pension Yojana (APY) is a social security scheme launched by the Government of India aimed at providing a steady stream of income to workers in the unorganized sector after their retirement. It replaced the Swavalamban Yojana. Beneficiaries receive a fixed monthly pension ranging from Rs. 1000 to Rs. 5000 beginning at the age of 60, depending on their contributions. Any Indian citizen between the age of 18 and 40 years is eligible to join APY.",
+          "qas": [
+            {
+              "question": "What is Atal Pension Yojana?",
+              "id": "apy_1",
+              "answers": [{ "text": "pension scheme for unorganized sector workers", "answer_start": 40 }]
+            },
+            {
+              "question": "Who is eligible for APY?",
+              "id": "apy_eligibility",
+              "answers": [{ "text": "Indian citizens between 18 and 40 years", "answer_start": 360 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PM Jan Dhan Yojana (PMJDY)",
+      "paragraphs": [
+        {
+          "context": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is National Mission for Financial Inclusion to ensure access to financial services, namely, Banking/ Savings & Deposit Accounts, Remittance, Credit, Insurance, Pension in an affordable manner. Account can be opened in any bank branch or Business Correspondent (Bank Mitr) outlet. PMJDY accounts are being opened with Zero balance. However, if the account-holder wishes to get check book, he/she will have to fulfill minimum balance criteria.",
+          "qas": [
+            {
+              "question": "What is PMJDY?",
+              "id": "pmjdy_1",
+              "answers": [{ "text": "national mission for financial inclusion providing zero balance accounts", "answer_start": 40 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PM Mudra Yojana (PMMY)",
+      "paragraphs": [
+        {
+          "context": "Pradhan Mantri MUDRA Yojana (PMMY) is a scheme launched by the Hon’ble Prime Minister on April 8, 2015 for providing loans up to 10 lakh to the non-corporate, non-farm small/micro enterprises. These loans are classified as MUDRA loans under PMMY. These loans are given by Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs. The borrower can approach any of the lending institutions mentioned above or can apply online through this portal.",
+          "qas": [
+            {
+              "question": "What is PM Mudra Yojana?",
+              "id": "pmmy_1",
+              "answers": [{ "text": "scheme providing loans up to 10 lakh for small enterprises", "answer_start": 110 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sukanya Samriddhi Yojana (SSY)",
+      "paragraphs": [
+        {
+          "context": "Sukanya Samriddhi Yojana (SSY) is a small deposit scheme of the Government of India meant exclusively for a girl child and is launched as a part of the Beti Bachao Beti Padhao campaign. The scheme is meant to meet the education and marriage expenses of a girl child. An SSY account can be opened at any time after the birth of a girl child till she turns 10. A minimum of Rs. 250 and a maximum of Rs. 1.5 Lakh can be deposited in a financial year.",
+          "qas": [
+            {
+              "question": "What is Sukanya Samriddhi Yojana?",
+              "id": "ssy_1",
+              "answers": [{ "text": "deposit scheme for girl child education and marriage", "answer_start": 40 }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Digital India",
+      "paragraphs": [
+        {
+          "context": "Digital India is a flagship programme of the Government of India with a vision to transform India into a digitally empowered society and knowledge economy. The program has three 3 key vision areas: Digital Infrastructure as a Core Utility to Every Citizen, Governance and Services on Demand, and Digital Empowerment of Citizens. It includes initiatives like Aadhaar, DigiLocker, and BharatNet.",
+          "qas": [
+            {
+              "question": "What is Digital India?",
+              "id": "di_1",
+              "answers": [{ "text": "programme to transform India into a digitally empowered society", "answer_start": 60 }]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

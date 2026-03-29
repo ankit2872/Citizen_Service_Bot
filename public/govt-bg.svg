@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <defs>
+    <style>
+      .faint { opacity: 0.07; fill: none; stroke: #a5b4fc; stroke-width: 1.2; }
+      .faint-fill { opacity: 0.05; fill: #818cf8; }
+      .ashoka { opacity: 0.06; fill: none; stroke: #c7d2fe; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Grid lines -->
+  <g class="faint" stroke-width="0.5" opacity="0.04">
+    <line x1="0" y1="150" x2="1440" y2="150"/>
+    <line x1="0" y1="300" x2="1440" y2="300"/>
+    <line x1="0" y1="450" x2="1440" y2="450"/>
+    <line x1="0" y1="600" x2="1440" y2="600"/>
+    <line x1="0" y1="750" x2="1440" y2="750"/>
+    <line x1="180" y1="0" x2="180" y2="900"/>
+    <line x1="360" y1="0" x2="360" y2="900"/>
+    <line x1="540" y1="0" x2="540" y2="900"/>
+    <line x1="720" y1="0" x2="720" y2="900"/>
+    <line x1="900" y1="0" x2="900" y2="900"/>
+    <line x1="1080" y1="0" x2="1080" y2="900"/>
+    <line x1="1260" y1="0" x2="1260" y2="900"/>
+  </g>
+
+  <!-- Ashoka Chakra - center large -->
+  <g transform="translate(720, 430)" class="ashoka">
+    <circle r="120" stroke-width="2"/>
+    <circle r="100" stroke-width="0.8"/>
+    <circle r="15" stroke-width="1.5"/>
+    <!-- 24 spokes -->
+    <g>
+      <line x1="0" y1="-15" x2="0" y2="-100" stroke-width="1"/>
+      <line x1="0" y1="15" x2="0" y2="100" stroke-width="1"/>
+      <line x1="-15" y1="0" x2="-100" y2="0" stroke-width="1"/>
+      <line x1="15" y1="0" x2="100" y2="0" stroke-width="1"/>
+      <line x1="-10.6" y1="-10.6" x2="-70.7" y2="-70.7" stroke-width="1"/>
+      <line x1="10.6" y1="10.6" x2="70.7" y2="70.7" stroke-width="1"/>
+      <line x1="10.6" y1="-10.6" x2="70.7" y2="-70.7" stroke-width="1"/>
+      <line x1="-10.6" y1="10.6" x2="-70.7" y2="70.7" stroke-width="1"/>
+      <line x1="-5.2" y1="-13.8" x2="-34.9" y2="-92.4" stroke-width="1"/>
+      <line x1="5.2" y1="13.8" x2="34.9" y2="92.4" stroke-width="1"/>
+      <line x1="13.8" y1="-5.2" x2="92.4" y2="-34.9" stroke-width="1"/>
+      <line x1="-13.8" y1="5.2" x2="-92.4" y2="34.9" stroke-width="1"/>
+      <line x1="5.2" y1="-13.8" x2="34.9" y2="-92.4" stroke-width="1"/>
+      <line x1="-5.2" y1="13.8" x2="-34.9" y2="92.4" stroke-width="1"/>
+      <line x1="-13.8" y1="-5.2" x2="-92.4" y2="-34.9" stroke-width="1"/>
+      <line x1="13.8" y1="5.2" x2="92.4" y2="34.9" stroke-width="1"/>
+    </g>
+  </g>
+
+  <!-- Small Ashoka Chakra - top left -->
+  <g transform="translate(160, 160)" class="ashoka" opacity="0.04">
+    <circle r="55"/>
+    <circle r="45"/>
+    <circle r="8"/>
+    <line x1="0" y1="-8" x2="0" y2="-45"/><line x1="0" y1="8" x2="0" y2="45"/>
+    <line x1="-8" y1="0" x2="-45" y2="0"/><line x1="8" y1="0" x2="45" y2="0"/>
+    <line x1="-5.7" y1="-5.7" x2="-31.8" y2="-31.8"/><line x1="5.7" y1="5.7" x2="31.8" y2="31.8"/>
+    <line x1="5.7" y1="-5.7" x2="31.8" y2="-31.8"/><line x1="-5.7" y1="5.7" x2="-31.8" y2="31.8"/>
+  </g>
+
+  <!-- Small Ashoka Chakra - bottom right -->
+  <g transform="translate(1280, 740)" class="ashoka" opacity="0.04">
+    <circle r="55"/>
+    <circle r="45"/>
+    <circle r="8"/>
+    <line x1="0" y1="-8" x2="0" y2="-45"/><line x1="0" y1="8" x2="0" y2="45"/>
+    <line x1="-8" y1="0" x2="-45" y2="0"/><line x1="8" y1="0" x2="45" y2="0"/>
+    <line x1="-5.7" y1="-5.7" x2="-31.8" y2="-31.8"/><line x1="5.7" y1="5.7" x2="31.8" y2="31.8"/>
+    <line x1="5.7" y1="-5.7" x2="31.8" y2="-31.8"/><line x1="-5.7" y1="5.7" x2="-31.8" y2="31.8"/>
+  </g>
+
+  <!-- Parliament / Dome outline - center bottom -->
+  <g class="faint" transform="translate(720, 900)">
+    <!-- Dome -->
+    <path d="M-120,0 Q-120,-80 0,-100 Q120,-80 120,0" stroke-width="1.5"/>
+    <!-- Pillars -->
+    <rect x="-120" y="-30" width="10" height="30" class="faint"/>
+    <rect x="-90" y="-50" width="10" height="50" class="faint"/>
+    <rect x="-60" y="-65" width="10" height="65" class="faint"/>
+    <rect x="-30" y="-75" width="10" height="75" class="faint"/>
+    <rect x="10" y="-75" width="10" height="75" class="faint"/>
+    <rect x="40" y="-65" width="10" height="65" class="faint"/>
+    <rect x="70" y="-50" width="10" height="50" class="faint"/>
+    <rect x="100" y="-30" width="10" height="30" class="faint"/>
+    <!-- Base -->
+    <line x1="-130" y1="0" x2="130" y2="0"/>
+    <!-- Steps -->
+    <line x1="-140" y1="10" x2="140" y2="10"/>
+    <line x1="-150" y1="20" x2="150" y2="20"/>
+  </g>
+
+  <!-- Document / form icon - left side -->
+  <g class="faint" transform="translate(120, 400)">
+    <rect x="-30" y="-40" width="60" height="80" rx="4"/>
+    <line x1="-18" y1="-20" x2="18" y2="-20"/>
+    <line x1="-18" y1="-8" x2="18" y2="-8"/>
+    <line x1="-18" y1="4" x2="18" y2="4"/>
+    <line x1="-18" y1="16" x2="6" y2="16"/>
+  </g>
+
+  <!-- Document icon - right side -->
+  <g class="faint" transform="translate(1320, 400)">
+    <rect x="-30" y="-40" width="60" height="80" rx="4"/>
+    <line x1="-18" y1="-20" x2="18" y2="-20"/>
+    <line x1="-18" y1="-8" x2="18" y2="-8"/>
+    <line x1="-18" y1="4" x2="18" y2="4"/>
+    <line x1="-18" y1="16" x2="6" y2="16"/>
+  </g>
+
+  <!-- Rupee symbol - top right -->
+  <g class="faint" transform="translate(1300, 180)">
+    <text x="0" y="0" font-size="72" font-family="serif" fill="none" stroke="#a5b4fc" stroke-width="1" opacity="0.08" text-anchor="middle">₹</text>
+  </g>
+
+  <!-- Rupee symbol - bottom left -->
+  <g class="faint" transform="translate(140, 750)">
+    <text x="0" y="0" font-size="72" font-family="serif" fill="none" stroke="#a5b4fc" stroke-width="1" opacity="0.08" text-anchor="middle">₹</text>
+  </g>
+
+  <!-- Circuit / digital dots top area -->
+  <g opacity="0.05" fill="#818cf8">
+    <circle cx="300" cy="80" r="3"/><circle cx="340" cy="80" r="3"/><circle cx="380" cy="80" r="3"/>
+    <circle cx="300" cy="120" r="3"/><circle cx="340" cy="40" r="3"/>
+    <circle cx="1100" cy="80" r="3"/><circle cx="1140" cy="80" r="3"/><circle cx="1180" cy="80" r="3"/>
+    <circle cx="1140" cy="40" r="3"/><circle cx="1100" cy="120" r="3"/>
+  </g>
+  <g opacity="0.04" fill="none" stroke="#818cf8" stroke-width="0.8">
+    <line x1="300" y1="80" x2="340" y2="80"/>
+    <line x1="340" y1="80" x2="380" y2="80"/>
+    <line x1="300" y1="80" x2="300" y2="120"/>
+    <line x1="340" y1="80" x2="340" y2="40"/>
+    <line x1="1100" y1="80" x2="1140" y2="80"/>
+    <line x1="1140" y1="80" x2="1180" y2="80"/>
+    <line x1="1100" y1="80" x2="1100" y2="120"/>
+    <line x1="1140" y1="80" x2="1140" y2="40"/>
+  </g>
+
+  <!-- Shield / emblem outlines -->
+  <g class="faint" transform="translate(250, 700)" opacity="0.05">
+    <path d="M0,-50 L40,-30 L40,10 Q40,40 0,55 Q-40,40 -40,10 L-40,-30 Z"/>
+  </g>
+  <g class="faint" transform="translate(1190, 200)" opacity="0.05">
+    <path d="M0,-50 L40,-30 L40,10 Q40,40 0,55 Q-40,40 -40,10 L-40,-30 Z"/>
+  </g>
+
+  <!-- People silhouettes - subtle -->
+  <g opacity="0.04" fill="#a5b4fc">
+    <!-- Person 1 -->
+    <circle cx="380" cy="720" r="10"/>
+    <path d="M368,740 Q380,755 392,740 L392,790 L368,790 Z"/>
+    <!-- Person 2 -->
+    <circle cx="1060" cy="720" r="10"/>
+    <path d="M1048,740 Q1060,755 1072,740 L1072,790 L1048,790 Z"/>
+  </g>
+</svg>
